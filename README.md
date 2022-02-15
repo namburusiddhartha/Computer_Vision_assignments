@@ -1,4 +1,4 @@
-# Computer_Vision_assignments
+# Computer_Vision
 This is a set of six homeworks as part of Computer Vision course (16720). Some visualisations from the homeworks are shown as below.
 
 ### HW1 - Edge detector
